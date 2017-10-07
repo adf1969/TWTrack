@@ -1,2 +1,2 @@
-# twtrack
+# TWTrack
 Used to track tastyworks trades
